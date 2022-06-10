@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+	<RepositoryUrl>https://github.com/MyJetWallet/MyJetWallet.TestUsers</RepositoryUrl>
+	<PackageProjectUrl>https://github.com/MyJetWallet/MyJetWallet.TestUsers</PackageProjectUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="6.4.0" />
+      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.5" />
+    </ItemGroup>
+
+</Project>
