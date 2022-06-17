@@ -10,7 +10,7 @@
 
     <ItemGroup>
       <PackageReference Include="Autofac" Version="6.4.0" />
-      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.5" />
+      <PackageReference Include="MyJetWallet.Sdk.NoSql" Version="2.2.7" />
     </ItemGroup>
 
 </Project>
